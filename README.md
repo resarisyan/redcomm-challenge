@@ -48,7 +48,12 @@ php artisan migrate
 php artisan db:seed
 ```
 
-8. Start the server:
+8. Run the tests:
+```bash
+php artisan test
+```
+
+9. Start the server:
 ```bash
 php artisan serve
 ```
